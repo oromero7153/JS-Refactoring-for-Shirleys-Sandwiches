@@ -12,6 +12,18 @@
         "Onions",
         "American Cheese*"
       ]
+    },
+    {
+      "id": 4,
+      "name": "Pito Jones",
+      "bread": "Sourdough",
+      "ingredients": [
+        "Mayo",
+        "Lettuce",
+        "Onions",
+        "American Cheese*",
+        "Ham"
+      ]
     }
   ],
   "ingredients": [
