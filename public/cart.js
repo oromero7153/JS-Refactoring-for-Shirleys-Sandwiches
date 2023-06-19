@@ -25,6 +25,7 @@ const cart = {
         const sandwichCard = document.createElement('div');
         sandwichCard.className = cart.selectedSandwich.id === sandwich.id ? 'm-3 card border-primary' : 'm-3 card'
         sandwichCard.style.cursor = 'pointer';
+        const { id, name, bread, ingredients } = sandwich;
         sandwichCard.innerHTML = `
         <div class="card-body">
             <h5 class="card-title">${sandwich.id}. ${sandwich.name}</h5>

@@ -1,16 +1,16 @@
 {
   "cart": [
     {
-      "id": 1,
-      "name": "Avery's Sandwich",
+      "id": 3,
+      "name": "Pito Jones",
       "bread": "Sourdough",
       "ingredients": [
-        "Cheddar Cheese",
         "Mayo",
-        "Ham",
         "Bacon",
         "Lettuce",
-        "Tomatoes"
+        "Turkey",
+        "Onions",
+        "American Cheese*"
       ]
     }
   ],
